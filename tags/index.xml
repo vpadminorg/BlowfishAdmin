@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blowfish</title>
+    <link>/BlowfishAdmin/tags/</link>
+    <description>Recent content in Tags on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2024 Blowfish</copyright>
+    <atom:link href="/BlowfishAdmin/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advanced</title>
+      <link>/BlowfishAdmin/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/BlowfishAdmin/tags/advanced/</guid>
+      <description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. &amp;#x1f680;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Docs</title>
+      <link>/BlowfishAdmin/tags/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/BlowfishAdmin/tags/docs/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>/BlowfishAdmin/tags/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/BlowfishAdmin/tags/installation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sample</title>
+      <link>/BlowfishAdmin/tags/sample/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/BlowfishAdmin/tags/sample/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Users</title>
+      <link>/BlowfishAdmin/tags/users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>/BlowfishAdmin/tags/users/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
